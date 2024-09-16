@@ -7,13 +7,18 @@
 
 #include <vector>
 #include <string>
+#include <Line.h>
 using namespace std;
+
 class Utils {
 private:
 public:
+    vector<Line> Read_file(string);
+    time_t Ask_and_get_tm();
     vector<string> SplitString(string, string);
-    time_t Get_time_difference(time_t date);
+    time_t Get_time_difference(time_t);
     int From_string_to_number(string);
+    void Create_file(vector<Line>, time_t, time_t);
 };
 
 

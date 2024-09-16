@@ -37161,15 +37161,21 @@ namespace std __attribute__ ((__visibility__ ("default")))
 }
 # 9 "/home/lughx/CLionProjects/actividad1.3/includes/Utils.h" 2
 
+# 1 "/home/lughx/CLionProjects/actividad1.3/includes/Line.h" 1
+# 11 "/home/lughx/CLionProjects/actividad1.3/includes/Utils.h" 2
 
-# 10 "/home/lughx/CLionProjects/actividad1.3/includes/Utils.h"
+# 11 "/home/lughx/CLionProjects/actividad1.3/includes/Utils.h"
 using namespace std;
+
 class Utils {
 private:
 public:
+    vector<Line> Read_file(string);
+    time_t Ask_and_get_tm();
     vector<string> SplitString(string, string);
-    time_t Get_time_difference(time_t date);
+    time_t Get_time_difference(time_t);
     int From_string_to_number(string);
+    void Create_file(vector<Line>, time_t, time_t);
 };
 # 7 "/home/lughx/CLionProjects/actividad1.3/includes/Line.cpp" 2
 # 1 "/usr/include/c++/14.2.1/iostream" 1 3
