@@ -1,0 +1,22 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/lughx/CLionProjects/actividad1.3/cmake-build-debug",
+	"dir-cur-src" : "/home/lughx/CLionProjects/actividad1.3",
+	"dir-top-bld" : "/home/lughx/CLionProjects/actividad1.3/cmake-build-debug",
+	"dir-top-src" : "/home/lughx/CLionProjects/actividad1.3",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/lughx/CLionProjects/actividad1.3/includes",
+		"/home/lughx/CLionProjects/actividad1.3/home/lughx/CLionProjects/actividad1.3/includes"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/lughx/CLionProjects/actividad1.3/cmake-build-debug/CMakeFiles/actividad1_3.dir"
+}

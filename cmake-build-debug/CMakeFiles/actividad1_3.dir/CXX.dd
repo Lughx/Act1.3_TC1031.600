@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/actividad1_3.dir/main.cpp.o: dyndep
+
+build CMakeFiles/actividad1_3.dir/includes/Orden.cpp.o: dyndep
+
+build CMakeFiles/actividad1_3.dir/includes/Line.cpp.o: dyndep
+
+build CMakeFiles/actividad1_3.dir/includes/Utils.cpp.o: dyndep
+

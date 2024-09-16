@@ -1,0 +1,3 @@
+/home/lughx/CLionProjects/actividad1.3/cmake-build-debug/CMakeFiles/actividad1_3.dir
+/home/lughx/CLionProjects/actividad1.3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lughx/CLionProjects/actividad1.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
